@@ -381,7 +381,7 @@
 			} );
 
 			editor.addCommand( 'testDialog6', new CKEDITOR.dialogCommand( 'testDialog6', {
-				tab: 'tab2'
+				tabId: 'tab2'
 			} ) );
 
 
